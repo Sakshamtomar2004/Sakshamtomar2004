@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-- 💻 B.E. in Information Technology @ **GIET (Gunupur Institute of Engineering and Technology)** <!-- CHANGED: Updated from UIET Punjab to GIET -->
+- 💻 B.E. in Information Technology @ **UIET (University Institute of Engineering and Technology)** <!-- CHANGED: Updated from UIET Punjab to GIET -->
 - 🌱 Currently learning **Deep Learning** and **Machine Learning** <!-- CHANGED: Updated focus to Deep Learning and ML specifically -->
 - 🌐 Passionate about **AI/ML, Deep Learning, and Automation** <!-- CHANGED: Updated interests to focus on AI/ML and Deep Learning -->
 - 🧩 I love automating tasks and solving problems through code
@@ -55,26 +55,26 @@
   <summary><b>📈 Stats and Contributions</b></summary>
   <br>
   <div align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Saksham's GitHub Stats" />
+    <a href="https://github.com/Sakshamtomar2004"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+      <img width="49%" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Saksham's GitHub Stats" />
       <!-- CHANGED: Updated alt text from Raghav to Saksham -->
       <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
     </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&langs_count=7&theme=github_dark" alt="Saksham's Top Languages" />
+    <a href="https://github.com/Sakshamtomar2004"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+      <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamtomar2004&layout=compact&langs_count=7&theme=github_dark" alt="Saksham's Top Languages" />
       <!-- CHANGED: Updated alt text from Raghav to Saksham -->
       <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
     </a>
   </div>
   
   <div align="center">
-    <img width="70%" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue" alt="Saksham's GitHub streak" />
+    <img width="70%" src="https://streak-stats.demolab.com/?user=Sakshamtomar2004&theme=github-dark-blue" alt="Saksham's GitHub streak" />
     <!-- CHANGED: Updated alt text from Raghav to Saksham -->
     <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
   </div>
 
   <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=github_dark" width="100%" alt="Contribution Graph" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshamtomar2004&theme=github_dark" width="100%" alt="Contribution Graph" />
     <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
   </div>
 </details>
@@ -83,7 +83,7 @@
   <summary><b>🏆 GitHub Trophies</b></summary>
   <br>
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sakshamtomar2004&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%" />
     <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
   </div>
 </details>
@@ -107,7 +107,7 @@ Brief description of your project and what it does.
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank"> <!-- TODO: Replace YOUR_LINKEDIN_URL_HERE with your actual LinkedIn URL -->
+  <a href="https://www.linkedin.com/in/saksham-tomar-227990280/" target="_blank"> <!-- TODO: Replace YOUR_LINKEDIN_URL_HERE with your actual LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
@@ -126,7 +126,7 @@ Brief description of your project and what it does.
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sakshamtomar2004&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
 </div>
 
