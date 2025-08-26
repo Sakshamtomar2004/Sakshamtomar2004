@@ -99,7 +99,7 @@ Brief description of your project and what it does.
 -->
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+  <a href="https://github.com/Sakshamtomar2004?tab=repositories"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
     <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
@@ -110,7 +110,7 @@ Brief description of your project and what it does.
   <a href="https://www.linkedin.com/in/saksham-tomar-227990280/" target="_blank"> <!-- TODO: Replace YOUR_LINKEDIN_URL_HERE with your actual LinkedIn URL -->
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
+  <a href="https://github.com/Sakshamtomar2004" target="_blank"> <!-- TODO: Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="YOUR_TWITTER_URL_HERE" target="_blank"> <!-- TODO: Replace YOUR_TWITTER_URL_HERE with your actual Twitter URL -->
